@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">多言語アプリ</string>
+    <string name="action_settings">設定</string>
+
+    <string name="welcome">いらっしゃいませ！</string>
+    <string name="email">電子メールアドレス</string>
+    <string name="password">パスワード</string>
+    <string name="login">ログイン</string>
+    <string name="signup">アカウントをお持ちではありませんか？サインアップ</string>
+</resources>
